@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet, Image, TextInput, TouchableOpacity } from "react-native";
+import { View, StyleSheet, Image, TextInput, TouchableOpacity } from "react-native";
 
 export default function SearchBar() {
     return (

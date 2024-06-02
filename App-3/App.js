@@ -1,5 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
-import {StyleSheet, Text, View, ScrollView, SafeAreaView} from 'react-native';
+import {StyleSheet, View, ScrollView} from 'react-native';
 import SearchBar from "./Tasks/SearchBar";
 import Frame from "./Tasks/Frame";
 import Categories from "./Tasks/Categories";
